@@ -34,3 +34,4 @@ C:\Users\Nathh\Downloads\Contacts 1\Contacts\Contacts\obj\Debug\netstandard2.0\X
 C:\Users\Nathh\Downloads\Contacts 1\Contacts\Contacts\obj\Debug\netstandard2.0\Contacts.dll
 C:\Users\Nathh\Downloads\Contacts 1\Contacts\Contacts\obj\Debug\netstandard2.0\refint\Contacts.dll
 C:\Users\Nathh\Downloads\Contacts 1\Contacts\Contacts\obj\Debug\netstandard2.0\Contacts.pdb
+C:\Users\Nathh\Downloads\Contacts 1\Contacts\Contacts\obj\Debug\netstandard2.0\Contacts.sourcelink.json
