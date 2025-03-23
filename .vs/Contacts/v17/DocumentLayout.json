@@ -1,0 +1,281 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nathh\\Downloads\\Contacts 1\\Contacts\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DC4C0965-B4E5-42EA-8A62-9E34A8A1BF45}|Contacts\\Contacts.csproj|c:\\users\\nathh\\downloads\\contacts 1\\contacts\\contacts\\views\\contactspage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{DC4C0965-B4E5-42EA-8A62-9E34A8A1BF45}|Contacts\\Contacts.csproj|solutionrelative:contacts\\views\\contactspage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC4C0965-B4E5-42EA-8A62-9E34A8A1BF45}|Contacts\\Contacts.csproj|c:\\users\\nathh\\downloads\\contacts 1\\contacts\\contacts\\views\\contactformpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{DC4C0965-B4E5-42EA-8A62-9E34A8A1BF45}|Contacts\\Contacts.csproj|solutionrelative:contacts\\views\\contactformpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC4C0965-B4E5-42EA-8A62-9E34A8A1BF45}|Contacts\\Contacts.csproj|c:\\users\\nathh\\downloads\\contacts 1\\contacts\\contacts\\views\\contactdetailpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{DC4C0965-B4E5-42EA-8A62-9E34A8A1BF45}|Contacts\\Contacts.csproj|solutionrelative:contacts\\views\\contactdetailpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC4C0965-B4E5-42EA-8A62-9E34A8A1BF45}|Contacts\\Contacts.csproj|c:\\users\\nathh\\downloads\\contacts 1\\contacts\\contacts\\viewmodels\\contactsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC4C0965-B4E5-42EA-8A62-9E34A8A1BF45}|Contacts\\Contacts.csproj|solutionrelative:contacts\\viewmodels\\contactsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC4C0965-B4E5-42EA-8A62-9E34A8A1BF45}|Contacts\\Contacts.csproj|c:\\users\\nathh\\downloads\\contacts 1\\contacts\\contacts\\viewmodels\\contactformviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC4C0965-B4E5-42EA-8A62-9E34A8A1BF45}|Contacts\\Contacts.csproj|solutionrelative:contacts\\viewmodels\\contactformviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC4C0965-B4E5-42EA-8A62-9E34A8A1BF45}|Contacts\\Contacts.csproj|c:\\users\\nathh\\downloads\\contacts 1\\contacts\\contacts\\viewmodels\\contactdetailviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC4C0965-B4E5-42EA-8A62-9E34A8A1BF45}|Contacts\\Contacts.csproj|solutionrelative:contacts\\viewmodels\\contactdetailviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC4C0965-B4E5-42EA-8A62-9E34A8A1BF45}|Contacts\\Contacts.csproj|c:\\users\\nathh\\downloads\\contacts 1\\contacts\\contacts\\viewmodels\\baseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC4C0965-B4E5-42EA-8A62-9E34A8A1BF45}|Contacts\\Contacts.csproj|solutionrelative:contacts\\viewmodels\\baseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC4C0965-B4E5-42EA-8A62-9E34A8A1BF45}|Contacts\\Contacts.csproj|c:\\users\\nathh\\downloads\\contacts 1\\contacts\\contacts\\services\\databaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC4C0965-B4E5-42EA-8A62-9E34A8A1BF45}|Contacts\\Contacts.csproj|solutionrelative:contacts\\services\\databaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC4C0965-B4E5-42EA-8A62-9E34A8A1BF45}|Contacts\\Contacts.csproj|c:\\users\\nathh\\downloads\\contacts 1\\contacts\\contacts\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC4C0965-B4E5-42EA-8A62-9E34A8A1BF45}|Contacts\\Contacts.csproj|solutionrelative:contacts\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC4C0965-B4E5-42EA-8A62-9E34A8A1BF45}|Contacts\\Contacts.csproj|c:\\users\\nathh\\downloads\\contacts 1\\contacts\\contacts\\views\\contactdetailpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC4C0965-B4E5-42EA-8A62-9E34A8A1BF45}|Contacts\\Contacts.csproj|solutionrelative:contacts\\views\\contactdetailpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC4C0965-B4E5-42EA-8A62-9E34A8A1BF45}|Contacts\\Contacts.csproj|c:\\users\\nathh\\downloads\\contacts 1\\contacts\\contacts\\appshell.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{DC4C0965-B4E5-42EA-8A62-9E34A8A1BF45}|Contacts\\Contacts.csproj|solutionrelative:contacts\\appshell.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC4C0965-B4E5-42EA-8A62-9E34A8A1BF45}|Contacts\\Contacts.csproj|c:\\users\\nathh\\downloads\\contacts 1\\contacts\\contacts\\app.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{DC4C0965-B4E5-42EA-8A62-9E34A8A1BF45}|Contacts\\Contacts.csproj|solutionrelative:contacts\\app.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC4C0965-B4E5-42EA-8A62-9E34A8A1BF45}|Contacts\\Contacts.csproj|c:\\users\\nathh\\downloads\\contacts 1\\contacts\\contacts\\views\\contactformpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC4C0965-B4E5-42EA-8A62-9E34A8A1BF45}|Contacts\\Contacts.csproj|solutionrelative:contacts\\views\\contactformpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC4C0965-B4E5-42EA-8A62-9E34A8A1BF45}|Contacts\\Contacts.csproj|c:\\users\\nathh\\downloads\\contacts 1\\contacts\\contacts\\views\\contactspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC4C0965-B4E5-42EA-8A62-9E34A8A1BF45}|Contacts\\Contacts.csproj|solutionrelative:contacts\\views\\contactspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99AE189A-E4E6-42A1-8472-4EBFB09CA63C}|Contacts.Android\\Contacts.Android.csproj|C:\\Users\\Nathh\\Downloads\\Contacts 1\\Contacts\\contacts.android\\mainactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99AE189A-E4E6-42A1-8472-4EBFB09CA63C}|Contacts.Android\\Contacts.Android.csproj|solutionrelative:contacts.android\\mainactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99AE189A-E4E6-42A1-8472-4EBFB09CA63C}|Contacts.Android\\Contacts.Android.csproj|C:\\Users\\Nathh\\Downloads\\Contacts 1\\Contacts\\contacts.android\\properties\\androidmanifest.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{99AE189A-E4E6-42A1-8472-4EBFB09CA63C}|Contacts.Android\\Contacts.Android.csproj|solutionrelative:contacts.android\\properties\\androidmanifest.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ContactsViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Nathh\\Downloads\\Contacts 1\\Contacts\\Contacts\\ViewModels\\ContactsViewModel.cs",
+              "RelativeDocumentMoniker": "Contacts\\ViewModels\\ContactsViewModel.cs",
+              "ToolTip": "C:\\Users\\Nathh\\Downloads\\Contacts 1\\Contacts\\Contacts\\ViewModels\\ContactsViewModel.cs",
+              "RelativeToolTip": "Contacts\\ViewModels\\ContactsViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T20:33:48.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ContactDetailViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Nathh\\Downloads\\Contacts 1\\Contacts\\Contacts\\ViewModels\\ContactDetailViewModel.cs",
+              "RelativeDocumentMoniker": "Contacts\\ViewModels\\ContactDetailViewModel.cs",
+              "ToolTip": "C:\\Users\\Nathh\\Downloads\\Contacts 1\\Contacts\\Contacts\\ViewModels\\ContactDetailViewModel.cs",
+              "RelativeToolTip": "Contacts\\ViewModels\\ContactDetailViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T20:20:41.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ContactDetailPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Nathh\\Downloads\\Contacts 1\\Contacts\\Contacts\\Views\\ContactDetailPage.xaml",
+              "RelativeDocumentMoniker": "Contacts\\Views\\ContactDetailPage.xaml",
+              "ToolTip": "C:\\Users\\Nathh\\Downloads\\Contacts 1\\Contacts\\Contacts\\Views\\ContactDetailPage.xaml",
+              "RelativeToolTip": "Contacts\\Views\\ContactDetailPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-19T20:12:10.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ContactFormViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Nathh\\Downloads\\Contacts 1\\Contacts\\Contacts\\ViewModels\\ContactFormViewModel.cs",
+              "RelativeDocumentMoniker": "Contacts\\ViewModels\\ContactFormViewModel.cs",
+              "ToolTip": "C:\\Users\\Nathh\\Downloads\\Contacts 1\\Contacts\\Contacts\\ViewModels\\ContactFormViewModel.cs",
+              "RelativeToolTip": "Contacts\\ViewModels\\ContactFormViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFUAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T21:00:06.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ContactFormPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Nathh\\Downloads\\Contacts 1\\Contacts\\Contacts\\Views\\ContactFormPage.xaml",
+              "RelativeDocumentMoniker": "Contacts\\Views\\ContactFormPage.xaml",
+              "ToolTip": "C:\\Users\\Nathh\\Downloads\\Contacts 1\\Contacts\\Contacts\\Views\\ContactFormPage.xaml",
+              "RelativeToolTip": "Contacts\\Views\\ContactFormPage.xaml",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAAQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-19T20:12:03.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ContactsPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Nathh\\Downloads\\Contacts 1\\Contacts\\Contacts\\Views\\ContactsPage.xaml",
+              "RelativeDocumentMoniker": "Contacts\\Views\\ContactsPage.xaml",
+              "ToolTip": "C:\\Users\\Nathh\\Downloads\\Contacts 1\\Contacts\\Contacts\\Views\\ContactsPage.xaml",
+              "RelativeToolTip": "Contacts\\Views\\ContactsPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-19T20:07:08.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BaseViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Nathh\\Downloads\\Contacts 1\\Contacts\\Contacts\\ViewModels\\BaseViewModel.cs",
+              "RelativeDocumentMoniker": "Contacts\\ViewModels\\BaseViewModel.cs",
+              "ToolTip": "C:\\Users\\Nathh\\Downloads\\Contacts 1\\Contacts\\Contacts\\ViewModels\\BaseViewModel.cs",
+              "RelativeToolTip": "Contacts\\ViewModels\\BaseViewModel.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T20:33:37.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ContactDetailPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Nathh\\Downloads\\Contacts 1\\Contacts\\Contacts\\Views\\ContactDetailPage.xaml.cs",
+              "RelativeDocumentMoniker": "Contacts\\Views\\ContactDetailPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Nathh\\Downloads\\Contacts 1\\Contacts\\Contacts\\Views\\ContactDetailPage.xaml.cs",
+              "RelativeToolTip": "Contacts\\Views\\ContactDetailPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T20:25:11.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Contact.cs",
+              "DocumentMoniker": "C:\\Users\\Nathh\\Downloads\\Contacts 1\\Contacts\\Contacts\\Models\\Contact.cs",
+              "RelativeDocumentMoniker": "Contacts\\Models\\Contact.cs",
+              "ToolTip": "C:\\Users\\Nathh\\Downloads\\Contacts 1\\Contacts\\Contacts\\Models\\Contact.cs",
+              "RelativeToolTip": "Contacts\\Models\\Contact.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T20:16:55.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DatabaseService.cs",
+              "DocumentMoniker": "C:\\Users\\Nathh\\Downloads\\Contacts 1\\Contacts\\Contacts\\Services\\DatabaseService.cs",
+              "RelativeDocumentMoniker": "Contacts\\Services\\DatabaseService.cs",
+              "ToolTip": "C:\\Users\\Nathh\\Downloads\\Contacts 1\\Contacts\\Contacts\\Services\\DatabaseService.cs",
+              "RelativeToolTip": "Contacts\\Services\\DatabaseService.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAA/wCQAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T20:29:52.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\Nathh\\Downloads\\Contacts 1\\Contacts\\Contacts\\App.xaml",
+              "RelativeDocumentMoniker": "Contacts\\App.xaml",
+              "ToolTip": "C:\\Users\\Nathh\\Downloads\\Contacts 1\\Contacts\\Contacts\\App.xaml",
+              "RelativeToolTip": "Contacts\\App.xaml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-19T20:22:48.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\Nathh\\Downloads\\Contacts 1\\Contacts\\Contacts\\AppShell.xaml",
+              "RelativeDocumentMoniker": "Contacts\\AppShell.xaml",
+              "ToolTip": "C:\\Users\\Nathh\\Downloads\\Contacts 1\\Contacts\\Contacts\\AppShell.xaml",
+              "RelativeToolTip": "Contacts\\AppShell.xaml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACAAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-19T20:22:53.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ContactsPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Nathh\\Downloads\\Contacts 1\\Contacts\\Contacts\\Views\\ContactsPage.xaml.cs",
+              "RelativeDocumentMoniker": "Contacts\\Views\\ContactsPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Nathh\\Downloads\\Contacts 1\\Contacts\\Contacts\\Views\\ContactsPage.xaml.cs",
+              "RelativeToolTip": "Contacts\\Views\\ContactsPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T20:11:57.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ContactFormPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Nathh\\Downloads\\Contacts 1\\Contacts\\Contacts\\Views\\ContactFormPage.xaml.cs",
+              "RelativeDocumentMoniker": "Contacts\\Views\\ContactFormPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Nathh\\Downloads\\Contacts 1\\Contacts\\Contacts\\Views\\ContactFormPage.xaml.cs",
+              "RelativeToolTip": "Contacts\\Views\\ContactFormPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T20:12:01.884Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MainActivity.cs",
+              "DocumentMoniker": "C:\\Users\\Nathh\\Downloads\\Contacts 1\\Contacts\\Contacts.Android\\MainActivity.cs",
+              "RelativeDocumentMoniker": "Contacts.Android\\MainActivity.cs",
+              "ToolTip": "C:\\Users\\Nathh\\Downloads\\Contacts 1\\Contacts\\Contacts.Android\\MainActivity.cs",
+              "RelativeToolTip": "Contacts.Android\\MainActivity.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T21:34:38.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AndroidManifest.xml",
+              "DocumentMoniker": "C:\\Users\\Nathh\\Downloads\\Contacts 1\\Contacts\\Contacts.Android\\Properties\\AndroidManifest.xml",
+              "RelativeDocumentMoniker": "Contacts.Android\\Properties\\AndroidManifest.xml",
+              "ToolTip": "C:\\Users\\Nathh\\Downloads\\Contacts 1\\Contacts\\Contacts.Android\\Properties\\AndroidManifest.xml",
+              "RelativeToolTip": "Contacts.Android\\Properties\\AndroidManifest.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-01-18T21:33:34.544Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Contacts.Views.ContactsPage"
+             Title="{Binding Title}"
+             xmlns:local="clr-namespace:Contacts.ViewModels"
+             xmlns:model="clr-namespace:Contacts.Models"
+             x:Name="BrowseContactsPage">
+
+    <ContentPage.ToolbarItems>
+        <ToolbarItem Text="Ajouter" Command="{Binding AddContactCommand}" />
+    </ContentPage.ToolbarItems>
+
+    <RefreshView x:DataType="local:ContactsViewModel" Command="{Binding LoadContactsCommand}" IsRefreshing="{Binding IsBusy, Mode=TwoWay}">
+        <CollectionView x:Name="ContactsListView"
+                        ItemsSource="{Binding Contacts}"
+                        SelectionMode="None">
+            <CollectionView.ItemTemplate>
+                <DataTemplate>
+                    <SwipeView x:DataType="model:Contact">
+                        <SwipeView.LeftItems>
+                            <SwipeItems>
+                                <SwipeItem Text="Modifier"
+                                           BackgroundColor="LightGreen"
+                                           Command="{Binding Source={RelativeSource AncestorType={x:Type local:ContactsViewModel}}, Path=ContactEditAsked}"
+                                           CommandParameter="{Binding .}" />
+                                <SwipeItem Text="Supprimer"
+                                           BackgroundColor="LightPink"
+                                           Command="{Binding Source={RelativeSource AncestorType={x:Type local:ContactsViewModel}}, Path=ContactDeleteAsked}"
+                                           CommandParameter="{Binding .}" />
+                            </SwipeItems>
+                        </SwipeView.LeftItems>
+                        <StackLayout Padding="10">
+                            <Label>
+                                <Label.FormattedText>
+                                    <FormattedString>
+                                        <Span Text="{Binding LastName}" FontAttributes="Bold" FontSize="16" />
+                                        <Span Text=" " />
+                                        <Span Text="{Binding FirstName}" FontSize="16" />
+                                    </FormattedString>
+                                </Label.FormattedText>
+                            </Label>
+                            <Label Text="{Binding PhoneNumber}"
+                                   LineBreakMode="NoWrap"
+                                   Style="{DynamicResource ListItemDetailTextStyle}"
+                                   FontSize="13"
+                                   TextColor="Gray" />
+                            <StackLayout.GestureRecognizers>
+                                <TapGestureRecognizer 
+                                    NumberOfTapsRequired="1"
+                                    Command="{Binding Source={RelativeSource AncestorType={x:Type local:ContactsViewModel}}, Path=ContactTapped}"		
+                                    CommandParameter="{Binding .}" />
+                            </StackLayout.GestureRecognizers>
+                        </StackLayout>
+                    </SwipeView>
+                </DataTemplate>
+            </CollectionView.ItemTemplate>
+        </CollectionView>
+    </RefreshView>
+</ContentPage>
